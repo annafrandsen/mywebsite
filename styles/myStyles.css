@@ -1,0 +1,35 @@
+
+h2 {
+    color: #F9A4A4 ;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+h4 {
+    color: #C19CF3 ;
+}
+
+.icon {
+    color: #F9A4A4 ;
+}
+
+.icon2 {
+    color: #C19CF3;
+}
+
+a {
+    color: #DAB5FF;
+}
+
+a:hover {
+    color: #81D7FD;
+}

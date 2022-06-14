@@ -1,0 +1,56 @@
+.tables{
+    position:relative;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+body{
+    background-color: #FFD1D1 ;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background: white;
+    color: #F9A4A4;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px ;
+    text-align: center;
+    
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: aliceblue;
+}
+
+.link {
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer {
+    padding: 10px;
+    position:static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: #F9A4A4;
+    text-align: center;
+    font-size: large;
+  }
